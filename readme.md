@@ -2,11 +2,24 @@
 
 Een specifieke website voor een specifiek persoon.
 
+De vraag:
+
+> Hoe werkt een tabel met data als je hem niet kunt zien?
+
 [**Klik hier om naar de website te gaan**](https://qiubee.github.io/web-design/)
 
 ## Inhoud
 
-1. [Bronnen](#bronnen)
+1. [**Onderzoek**](#onderzoek)
+2. [**Bronnen**](#bronnen)
+
+## Onderzoek
+
+### Introductie
+
+### Test 1
+
+### Test 2
 
 ## Bronnen
 
