@@ -2,7 +2,7 @@
 
 Een specifieke website voor een specifiek persoon.
 
-[Klik hier om naar de website te gaan.](https://qiubee.github.io/web-design/)
+[**Klik hier om naar de website te gaan.**](https://qiubee.github.io/web-design/)
 
 ## Inhoud
 
