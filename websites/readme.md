@@ -1,3 +1,3 @@
 # Websites
 
-* [Tabel-test](tabel-test)
+* [Tabel-test](tabele-test)
