@@ -1,0 +1,23 @@
+table {
+	border-collapse: collapse;
+}
+
+caption {
+	font-style: italic;
+	margin-bottom: 0.5em;
+}
+
+td, th {
+	border: 0.1em solid #c8c8c8;
+}
+
+thead, tbody th {
+	background-color: #333333;
+	color: white;
+	border-collapse: collapse;
+}
+
+th, td {
+	padding: 0.5em;
+	padding-right: 3em;
+}
