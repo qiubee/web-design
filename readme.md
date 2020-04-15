@@ -17,9 +17,13 @@ De vraag:
 
 ## Onderzoek
 
+De complete onderzoeks- en testbeschrijvingen zijn te zien in de [**wiki**](https://github.com/qiubee/web-design/wiki).
+
 ### Wie is Roger Ravelli?
 
 Roger Ravelli is 53 jaar en heeft een erfelijke ziekte aan zijn ogen genaamd Maculadegeneratie. Dit is een oogziekte waarbij het zicht langzaam steeds verder verslechterd.
+
+Voor gedetailleerde informatie over de kennismaking met Roger bekijk [**Kennismaking Roger**](https://github.com/qiubee/web-design/wiki/Kennismaking-Roger) in de wiki.
 
 ### Test 1
 
