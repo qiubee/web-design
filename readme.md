@@ -11,7 +11,7 @@ De vraag:
 ## Inhoud
 
 1. [**Onderzoek**](#onderzoek)
-2. [**Eisen**](#eisen)
+2. [**Gebruikerseisen**](#gebruikerseisen)
 3. [**Concept**](#concept)
 4. [**Bronnen**](#bronnen)
 
@@ -23,19 +23,37 @@ De complete onderzoeks- en testbeschrijvingen zijn te zien in de [**wiki**](http
 
 Roger Ravelli is 53 jaar en heeft een erfelijke ziekte aan zijn ogen genaamd Maculadegeneratie. Dit is een oogziekte waarbij het zicht langzaam steeds verder verslechterd.
 
-Voor gedetailleerde informatie over de kennismaking met Roger bekijk [**Kennismaking Roger**](https://github.com/qiubee/web-design/wiki/Kennismaking-Roger) in de wiki.
+Voor gedetailleerde informatie over de kennismaking met Roger, bekijk [**Kennismaking Roger**](https://github.com/qiubee/web-design/wiki/Kennismaking-Roger) in de wiki.
 
-### Test 1
+### User Test 1: Toegankelijkheid tabel
+
+Een test om de toegankelijkheid van een tabel te onderzoeken.
+
+* Datum: 15 april 2020
+* Tijd: 14:00
+* Testpersoon: Roger Ravelli
+
+#### Nieuwe inzichten
+
+* Roger wil kunnen pauzeren met het uitlezen van een tabel door de screenreader.
+* Roger wil met de Tab-toets door een tabel heen kunnen gaan.
+* Roger wil een donkere-modus
+* Roger wil dat de waarden in een tabel in de context worden voorgelezen.
+* Roger wil zelf een waarde in een tabel kunnen kiezen.
+
+Voor gedetailleerde informatie over de user test met Roger over de toegankelijkheid van een tabel, bekijk [**User Test 1: Toegankelijkheid tabel**](https://github.com/qiubee/web-design/wiki/User-Test-1:-Toegankelijkheid-tabel) in de wiki.
 
 ### Test 2
 
-## Eisen
-
-**Gebruikerseisen:**
+## Gebruikerseisen
 
 * Roger wil tabellen kunnen begrijpen.
 * Roger wil zijn screenreader en Spraakassistent kunnen gebruiken.
 * Roger wil contrast en geen kleuren die fel licht geven.
+* Roger wil kunnen pauzeren met het uitlezen van een tabel door de screenreader.
+* Roger wil met de Tab-toets door een tabel heen kunnen gaan.
+* Roger wil dat de waarden in een tabel in de context worden voorgelezen.
+* Roger wil zelf een waarde in een tabel kunnen selecteren.
 
 ## Concept
 
