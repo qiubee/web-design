@@ -1,44 +1,108 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="nl" dir="ltr">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Tabellen</title>
 	<link rel="stylesheet" href="css/index.css">
+	<title>Tabel lezer</title>
 </head>
 <body>
-	<h1>Een simpele tabel</h1>
+	<h1>Tabel lezer</h1>
+	<p>Om een tabel op te sturen, voer de link in van de website met de tabel of selecteer een Excel-bestand op je computer.</p>
+
+	<ul>
+		<li><a href="">Link van website invoeren</a></li>
+		<li><a href="">Excel-bestand selecteren op de computer</a></li>
+	</ul>
+
+	<h2>Uitleg over het invoeren van de link</h2>
+	<a href="#link-input">Uitleg overslaan</a>
+	<p>Om een link op te sturen, kopieer je de link van de website met de tabel. Dit doe je door </p>
+	<p id="link-input">Plaats hier de link van de website met de tabel: <input type="text"></p>
+	<input type="file" value="klik hier om een bestand te selecteren..." multiple>
+	<section>
+	<h2>Tabel 1</h2>
+	<ul>
+		<li><a href="">Naam</a></li>
+		<li><a href="">Leeftijd</a></li>
+		<li><a href="">Favoriete dier</a></li>
+	</ul>
 	<table>
 		<caption>Favoriete dieren van personen</caption>
 		<thead>
 			<tr>
-				<th scope="col">Naam</th>
-				<th scope="col">Leeftijd</th>
-				<th scope="col">Favoriete dier</th>
+				<th tabindex="0" scope="col">Naam</th>
+				<th tabindex="0" scope="col">Leeftijd</th>
+				<th tabindex="0" scope="col">Favoriete dier</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
-				<th scope="row">Brian</th>
-				<td>30</td>
-				<td>Kameel</td>
+				<th tabindex="0" scope="row">Brian</th>
+				<td tabindex="0">30</td>
+				<td tabindex="0">Kameel</td>
 			</tr>
 			<tr>
-				<th scope="row">Liam</th>
-				<td>19</td>
-				<td>Hond</td>
+				<th tabindex="0" scope="row">Liam</th>
+				<td tabindex="0">19</td>
+				<td tabindex="0">Hond</td>
 			</tr>
 			<tr>
-				<th scope="row">Vera</th>
-				<td>26</td>
-				<td>Veldmuis</td>
+				<th tabindex="0" scope="row">Vera</th>
+				<td tabindex="0">26</td>
+				<td tabindex="0">Veldmuis</td>
 			</tr>
 			<tr>
-				<th scope="row">Senna</th>
-				<td>34</td>
-				<td>Giraf</td>
+				<th tabindex="0" scope="row">Senna</th>
+				<td tabindex="0">34</td>
+				<td tabindex="0">Giraf</td>
 			</tr>
 		</tbody>
 	</table>
+	</section>
+	<section>
+		<h2>Tabel 2</h2>
+		<div>
+			<p>Favoriete dieren van personen</p>
+			<div tabindex="0">Naam</div>
+			<div tabindex="0">Leeftijd</div>
+		</div>
+	</section>
+	<section>
+		<h2>Tabel 3</h2>
+		<div>
+			<p>Favoriete dieren van personen</p>
+			<p tabindex="0">Naam</p>
+			<p tabindex="0">Leeftijd</p>
+		</div>
+	</section>
+	<section>
+		<h2>Tabel 4</h2>
+		<figure>
+			<figcaption>Tabel van favoriete dieren van personen</figcaption>
+			<div>
+				<p>Favoriete dieren van personen</p>
+				<div tabindex="0">
+					<p tabindex="0">Naam</p>
+					<div tabindex="0">
+						<p tabindex="0">Brian</p>
+						<p tabindex="0">Liam</p>
+						<p tabindex="0">Vera</p>
+						<p tabindex="0">Senna</p>
+					</div>
+				</div>
+				<div tabindex="0">
+					<p tabindex="0">Leeftijd</p>
+					<div tabindex="0">
+						<p tabindex="0">30</p>
+						<p tabindex="0">19</p>
+						<p tabindex="0">26</p>
+						<p tabindex="0">34</p>
+					</div>
+				</div>
+			</div>
+		</figure>
+	</section>
+	<script src="js/index.js" type="text/javascript"></script>
 </body>
 </html>

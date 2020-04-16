@@ -1,23 +1,35 @@
-table {
-	border-collapse: collapse;
+body {
+	background-color: #222223;
 }
 
-caption {
-	font-style: italic;
-	margin-bottom: 0.5em;
+* {
+	color: rgb(226, 47, 47);
 }
 
-td, th {
-	border: 0.1em solid #c8c8c8;
+.darkblack {
+	background-color: black;
 }
 
-thead, tbody th {
-	background-color: #333333;
-	color: white;
-	border-collapse: collapse;
+.darkgrey {
+	background-color: #222223;
 }
 
-th, td {
-	padding: 0.5em;
-	padding-right: 3em;
+.brightred {
+	color: tomato;
+}
+
+.red {
+	color: red;
+}
+
+*:focus {
+	border: solid blueviolet 1em;
+}
+
+.yellow {
+	color: yellow;
+}
+
+.lightblue {
+	color: rgb(27, 123, 155);
 }
