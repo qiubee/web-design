@@ -1,0 +1,32 @@
+{
+  "name": "web-design",
+  "version": "0.0.1",
+  "description": "A specific website for a specific person",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiubee/web-design.git"
+  },
+  "keywords": [
+    "design",
+    "accessibility"
+  ],
+  "author": "qiubee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qiubee/web-design/issues"
+  },
+  "homepage": "https://github.com/qiubee/web-design#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
