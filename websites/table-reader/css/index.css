@@ -1,0 +1,35 @@
+body {
+	background-color: #222223;
+}
+
+* {
+	color: rgb(226, 47, 47);
+}
+
+.darkblack {
+	background-color: black;
+}
+
+.darkgrey {
+	background-color: #222223;
+}
+
+.brightred {
+	color: tomato;
+}
+
+.red {
+	color: red;
+}
+
+*:focus {
+	border: solid blueviolet 1em;
+}
+
+.yellow {
+	color: yellow;
+}
+
+.lightblue {
+	color: rgb(27, 123, 155);
+}
