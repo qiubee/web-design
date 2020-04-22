@@ -43,7 +43,19 @@ Een test om de toegankelijkheid van een tabel te onderzoeken.
 
 Voor gedetailleerde informatie over de user test met Roger over de toegankelijkheid van een tabel, bekijk [**User Test 1: Toegankelijkheid tabel**](https://github.com/qiubee/web-design/wiki/User-Test-1:-Toegankelijkheid-tabel) in de wiki.
 
-### Test 2
+### User Test 2: Tabel voorlezer test
+
+Een test om de tabel voorlezer te onderzoeken. De waarden zijn uit de tabel gehaald en worden per waarde voorgelezen. Deze test is onder meer om te onderzoeken hoe de SuperNova screenreader door de tekst heen gaat.
+
+* Datum: 22 april 2020
+* Tijd: 14:00
+* Testpersoon: Roger Ravelli
+
+#### Nieuwe inzichten
+
+* Roger wil zien welk element focus heeft als de screenreader voorleest.
+
+Voor gedetailleerde informatie over de tweede user test met Roger over de tabel voorlezer, bekijk [**User Test 2: Tabel voorlezer test**](https://github.com/qiubee/web-design/wiki/User-Test-1:-Toegankelijkheid-tabel) in de wiki.
 
 ## Gebruikerseisen
 
