@@ -1,6 +1,6 @@
 # Website voor Roger Ravelli
 
-Een specifieke website ontwerpen voor een Roger Ravelli.
+Een specifieke website ontwerpen voor Roger Ravelli.
 
 De vraag:
 
