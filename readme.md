@@ -59,14 +59,14 @@ Voor gedetailleerde informatie over de tweede user test met Roger over de tabel 
 
 ## Gebruikerseisen
 
-* Roger wil tabellen kunnen begrijpen.
-* Roger wil zijn screenreader en Spraakassistent kunnen gebruiken.
-* Roger wil contrast en geen kleuren die fel licht geven.
-* Roger wil kunnen pauzeren met het uitlezen van een tabel door de screenreader.
-* Roger wil met de Tab-toets door een tabel heen kunnen gaan.
-* Roger wil dat de waarden in een tabel in de context worden voorgelezen.
-* Roger wil zelf een waarde in een tabel kunnen selecteren.
-* Roger wil kunnen zien welk element focus heeft als de screenreader voorleest.
+1. Roger wil tabellen kunnen begrijpen.
+2. Roger wil zijn screenreader en Spraakassistent kunnen gebruiken.
+3. Roger wil contrast en geen kleuren die fel licht geven.
+4. Roger wil kunnen pauzeren met het uitlezen van een tabel door de screenreader.
+5. Roger wil met de Tab-toets door een tabel heen kunnen gaan.
+6. Roger wil dat de waarden in een tabel in de context worden voorgelezen.
+7. Roger wil zelf een waarde in een tabel kunnen selecteren.
+8. Roger wil kunnen zien welk element focus heeft als de screenreader voorleest.
 
 ## Concept
 
