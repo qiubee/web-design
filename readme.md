@@ -37,7 +37,7 @@ Een test om de toegankelijkheid van een tabel te onderzoeken.
 
 * Roger wil kunnen pauzeren met het uitlezen van een tabel door de screenreader.
 * Roger wil met de Tab-toets door een tabel heen kunnen gaan.
-* Roger wil een donkere-modus
+* Roger wil een donkere-modus.
 * Roger wil dat de waarden in een tabel in de context worden voorgelezen.
 * Roger wil zelf een waarde in een tabel kunnen kiezen.
 
@@ -53,9 +53,9 @@ Een test om de tabel voorlezer te onderzoeken. De waarden zijn uit de tabel geha
 
 #### Nieuwe inzichten
 
-* Roger wil zien welk element focus heeft als de screenreader voorleest.
+* Roger wil kunnen zien welk element focus heeft als de screenreader voorleest.
 
-Voor gedetailleerde informatie over de tweede user test met Roger over de tabel voorlezer, bekijk [**User Test 2: Tabel voorlezer test**](https://github.com/qiubee/web-design/wiki/User-Test-1:-Toegankelijkheid-tabel) in de wiki.
+Voor gedetailleerde informatie over de tweede user test met Roger over de tabel voorlezer, bekijk [**User Test 2: Tabel voorlezer test**](https://github.com/qiubee/web-design/wiki/User-Test-2:-Tabel-voorlezer-test) in de wiki.
 
 ## Gebruikerseisen
 
@@ -66,6 +66,7 @@ Voor gedetailleerde informatie over de tweede user test met Roger over de tabel 
 * Roger wil met de Tab-toets door een tabel heen kunnen gaan.
 * Roger wil dat de waarden in een tabel in de context worden voorgelezen.
 * Roger wil zelf een waarde in een tabel kunnen selecteren.
+* Roger wil kunnen zien welk element focus heeft als de screenreader voorleest.
 
 ## Concept
 
