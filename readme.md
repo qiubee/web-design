@@ -81,3 +81,4 @@ Doordat Roger deels nog kan zien maar steeds minder is het idee om een website t
 * [Tabellen - W3C](https://www.w3.org/WAI/tutorials/tables/)
 * [Maak toegankelijke tabellen - WebAim](https://webaim.org/techniques/tables/data)
 * [Tables Basics - Mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
+* [Presenting abbreviations for screenreader users - Openinclusion](https://openinclusion.com/blog/presenting-abbreviations-acronyms-for-screen-reader-users/)
