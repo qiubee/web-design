@@ -7,6 +7,12 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 }
 
+/* Present title of abbreviations for screenreader */
+/* https://openinclusion.com/blog/presenting-abbreviations-acronyms-for-screen-reader-users/ */
+dfn > abbr[title]:after {
+	content: ": (" attr(title) ")";
+}s
+
 .darkblack {
 	background-color: black;
 }
