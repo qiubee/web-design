@@ -25,9 +25,11 @@ Roger Ravelli is 53 jaar en heeft een erfelijke ziekte aan zijn ogen genaamd Mac
 
 Voor gedetailleerde informatie over de kennismaking met Roger, bekijk [**Kennismaking Roger**](https://github.com/qiubee/web-design/wiki/Kennismaking-Roger) in de wiki.
 
-## User Scenario
+### User Scenario
 
-Een *user scenario* is een kort verhaal die de gebruiker beschrijft en beschrijft hoe en wat hij doet (op een website). In dit geval een kort verhaal over Roger Ravelli en de wens om grafieken en tabellen weer te kunnen lezen en begijpen. Voor het complete user scenario over Roger, bekijk [**User Scenario**](https://github.com/qiubee/web-design/wiki/User-Scenario) in de wiki.
+Een *user scenario* is een kort verhaal die de gebruiker beschrijft en beschrijft hoe en wat hij doet (op een website). In dit geval een kort verhaal over Roger Ravelli en de wens om grafieken en tabellen weer te kunnen lezen en begijpen.
+
+Voor het complete user scenario over Roger, bekijk [**User Scenario**](https://github.com/qiubee/web-design/wiki/User-Scenario) in de wiki.
 
 ### User Test 1: Toegankelijkheid tabel
 
@@ -60,6 +62,17 @@ Een test om de tabel voorlezer te onderzoeken. De waarden zijn uit de tabel geha
 * Roger wil kunnen zien welk element focus heeft als de screenreader voorleest.
 
 Voor gedetailleerde informatie over de tweede user test met Roger over de tabel voorlezer, bekijk [**User Test 2: Tabel voorlezer test**](https://github.com/qiubee/web-design/wiki/User-Test-2:-Tabel-voorlezer-test) in de wiki.
+
+### Exclusive Design
+
+Websites worden gemaakt door mensen die ontwerpen voor mensen die net zo denken als zij zelf. Daardoor worden mensen die de kennis niet hebben of een beperking hebben uitgesloten. Om dat te veranderen heeft Vasilis van Gemert 4 principes opgestelt om te kunnen ontwerpen voor de ideale ervaring van mensen met een beperking:
+
+1. Study situation
+2. Ignore conventions
+3. Prioritise identity
+4. Add nonsense
+
+Voor uitleg over de principes en de toepassingen op de website voor Roger, bekijk [**Exclusive Design**](https://github.com/qiubee/web-design/wiki/Exlusive-Design) in de wiki.
 
 ## Gebruikerseisen
 
