@@ -87,7 +87,7 @@ Voor uitleg over de principes en de toepassingen op de website voor Roger, bekij
 
 ## Concept
 
-### #1 Een tabel beeldhouwen
+### Een tabel beeldhouwen
 
 Doordat Roger deels nog kan zien maar steeds minder is het idee om een website te maken waar hij zelf een tabel kan invoeren, de tabel uitgelezen wordt en op verschillende manieren bekeken kan worden. Het principe van de website is om Roger zelf te laten kiezen wat hij uit de tabel wil halen en om hem de keuze te geven om zelf een tabel in elkaar te zetten.
 
