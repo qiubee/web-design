@@ -11,7 +11,12 @@ body {
 /* https://openinclusion.com/blog/presenting-abbreviations-acronyms-for-screen-reader-users/ */
 dfn > abbr[title]:after {
 	content: ": (" attr(title) ")";
-}s
+}
+
+caption {
+	font-style: italic;
+	margin-bottom: 0.5em;
+}
 
 .darkblack {
 	background-color: black;
