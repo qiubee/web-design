@@ -25,6 +25,10 @@ Roger Ravelli is 53 jaar en heeft een erfelijke ziekte aan zijn ogen genaamd Mac
 
 Voor gedetailleerde informatie over de kennismaking met Roger, bekijk [**Kennismaking Roger**](https://github.com/qiubee/web-design/wiki/Kennismaking-Roger) in de wiki.
 
+## User Scenario
+
+Een *user scenario* is een kort verhaal die de gebruiker beschrijft en beschrijft hoe en wat hij doet (op een website). In dit geval een kort verhaal over Roger Ravelli en de wens om grafieken en tabellen weer te kunnen lezen en begijpen. Voor het complete user scenario over Roger, bekijk [**User Scenario**](https://github.com/qiubee/web-design/wiki/User-Scenario) in de wiki.
+
 ### User Test 1: Toegankelijkheid tabel
 
 Een test om de toegankelijkheid van een tabel te onderzoeken.
@@ -35,7 +39,7 @@ Een test om de toegankelijkheid van een tabel te onderzoeken.
 
 #### Nieuwe inzichten
 
-* Roger wil kunnen pauzeren met het uitlezen van een tabel door de screenreader.
+* Roger wil kunnen pauzeren met De uitlezen van een tabel door de screenreader.
 * Roger wil met de Tab-toets door een tabel heen kunnen gaan.
 * Roger wil een donkere-modus.
 * Roger wil dat de waarden in een tabel in de context worden voorgelezen.
