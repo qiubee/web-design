@@ -72,7 +72,7 @@ Websites worden gemaakt door mensen die ontwerpen voor mensen die net zo denken 
 3. Prioritise identity
 4. Add nonsense
 
-Voor uitleg over de principes en de toepassingen op de website voor Roger, bekijk [**Exclusive Design**](https://github.com/qiubee/web-design/wiki/Exlusive-Design) in de wiki.
+Voor uitleg over de principes en de toepassingen op de website voor Roger, bekijk [**Exclusive Design**](https://github.com/qiubee/web-design/wiki/Exclusive-Design) in de wiki.
 
 ## Gebruikerseisen
 
