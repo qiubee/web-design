@@ -15,6 +15,8 @@ De vraag:
 3. [**Concept**](#concept)
 4. [**Bronnen**](#bronnen)
 
+[Conclusie](https://github.com/qiubee/web-design/wiki/Conclusie)
+
 ## Onderzoek
 
 De complete onderzoeks- en testbeschrijvingen zijn te zien in de [**wiki**](https://github.com/qiubee/web-design/wiki).
